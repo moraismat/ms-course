@@ -4,11 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd767881-d26c-4f45-8f02-9532419e66aa" name="Changes" comment="" />
+    <list default="true" id="fd767881-d26c-4f45-8f02-9532419e66aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/entities/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/repositories/WorkerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/resources/WorkerResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-worker/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-worker/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/HrWorkerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/hrworker/HrWorkerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/resources/application.properties" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -16,11 +32,13 @@
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
@@ -36,6 +54,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2K9d63BFliwSMDQpx6vLSUcw8Qh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
