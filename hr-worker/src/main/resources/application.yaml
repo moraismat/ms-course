@@ -1,5 +1,5 @@
 server:
-  port: 8001
+  port: ${random.int(5000,5100)}
 
 spring:
   application:
@@ -17,6 +17,8 @@ spring:
     spring.jpa.database-platform: org.hibernate.dialect.H2Dialect
 
 eureka:
+  instance:
+    initial-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka
