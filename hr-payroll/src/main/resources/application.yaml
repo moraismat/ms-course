@@ -16,7 +16,7 @@ eureka:
         execution:
           isolation:
             thread:
-              timeoutInMilliseconds: 6000000
+              timeoutInMilliseconds: 400000
 
   ribbon:
     ConnectTimeout: 10000000
