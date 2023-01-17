@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd767881-d26c-4f45-8f02-9532419e66aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-payroll/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/HrPayrollApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/resources/PaymentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/resources/PaymentResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-eureka-server/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
