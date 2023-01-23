@@ -19,7 +19,7 @@
       <module name="hr-config-server" target="11" />
       <module name="hr-eureka-server" target="11" />
       <module name="hr-payroll" target="11" />
-      <module name="hr-user" target="17" />
+      <module name="hr-user" target="11" />
       <module name="hr-worker" target="11" />
     </bytecodeTargetLevel>
   </component>
