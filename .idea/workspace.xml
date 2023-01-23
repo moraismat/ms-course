@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd767881-d26c-4f45-8f02-9532419e66aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/Config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr-user/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/resources/UserResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/HrUserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/HrUserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/entities/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,9 +167,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.HrUserApplication" />
+        <item itemvalue="Application.HrApiGatewayZuulApplication" />
         <item itemvalue="Application.HrEurekaServerApplication" />
         <item itemvalue="Application.HrWorkerApplication" />
-        <item itemvalue="Application.HrApiGatewayZuulApplication" />
         <item itemvalue="Application.HrConfigServerApplication" />
       </list>
     </recent_temporary>

@@ -17,6 +17,9 @@ zuul:
     payroll:
       service-id: hr-payroll
       path: /hr-payroll/**
+    user:
+      service-id: hr-user
+      path: /hr-user/**
     host:
       connect-timeout-millis: 90000
       socket-timeout-millis: 90000
