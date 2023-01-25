@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd767881-d26c-4f45-8f02-9532419e66aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/resources/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/entities/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,7 @@
       <recent name="com.devsuperior.hrpayroll.entities" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HrUserApplication">
+  <component name="RunManager" selected="Application.HrAuthApplication">
     <configuration name="HrApiGatewayZuulApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.devsuperior.hrapigatewayzuul.HrApiGatewayZuulApplication" />
       <module name="hr-api-gateway-zuul" />
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HrConfigServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.devsuperior.hrconfiserver.HrConfigServerApplication" />
-      <module name="hr-config-server" />
+    <configuration name="HrAuthApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devsuperior.hrauth.HrAuthApplication" />
+      <module name="hr-auth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.devsuperior.hrconfiserver.*" />
+          <option name="PATTERN" value="com.devsuperior.hrauth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,16 +161,16 @@
       <item itemvalue="Application.HrWorkerApplication" />
       <item itemvalue="Application.HrEurekaServerApplication" />
       <item itemvalue="Application.HrApiGatewayZuulApplication" />
-      <item itemvalue="Application.HrConfigServerApplication" />
       <item itemvalue="Application.HrUserApplication" />
+      <item itemvalue="Application.HrAuthApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HrAuthApplication" />
+        <item itemvalue="Application.HrEurekaServerApplication" />
         <item itemvalue="Application.HrUserApplication" />
         <item itemvalue="Application.HrApiGatewayZuulApplication" />
-        <item itemvalue="Application.HrEurekaServerApplication" />
         <item itemvalue="Application.HrWorkerApplication" />
-        <item itemvalue="Application.HrConfigServerApplication" />
       </list>
     </recent_temporary>
   </component>

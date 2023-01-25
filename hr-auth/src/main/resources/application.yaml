@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: hr-auth
+
+server:
+  port: 8005
