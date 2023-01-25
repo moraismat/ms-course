@@ -20,6 +20,9 @@ zuul:
     user:
       service-id: hr-user
       path: /hr-user/**
+    auth:
+      service-id: hr-auth
+      path: /hr-auth/**
     host:
       connect-timeout-millis: 90000
       socket-timeout-millis: 90000
