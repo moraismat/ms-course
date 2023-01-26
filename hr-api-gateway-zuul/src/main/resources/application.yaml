@@ -23,6 +23,7 @@ zuul:
     auth:
       service-id: hr-auth
       path: /hr-auth/**
+      sensitive-headers: Cookie, Set-Cookie
     host:
       connect-timeout-millis: 90000
       socket-timeout-millis: 90000

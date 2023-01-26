@@ -5,15 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd767881-d26c-4f45-8f02-9532419e66aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/FeignClients/UserFeignClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/entities/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/resources/UserResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_oauth2_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/config/SecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-api-gateway-zuul/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-auth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-auth/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/HrAuthApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/HrAuthApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/services/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/resources/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-user/src/main/java/com/superior/hruser/resources/UserResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,8 +188,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.HrAuthApplication" />
-        <item itemvalue="Application.HrUserApplication" />
         <item itemvalue="Application.HrApiGatewayZuulApplication" />
+        <item itemvalue="Application.HrUserApplication" />
         <item itemvalue="Application.HrEurekaServerApplication" />
         <item itemvalue="Application.HrWorkerApplication" />
       </list>
@@ -201,5 +216,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hr-auth/src/main/java/com/devsuperior/hrauth/services/UserService.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
